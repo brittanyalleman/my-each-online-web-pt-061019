@@ -1,3 +1,4 @@
-def my_each() #put argument(s) here
-   # code here
+ellie_toys = ("camel, flamingo, racoon, aligator")
+def my_each(ellie_toys) 
+  my_each(ellie_toys) 
 end
